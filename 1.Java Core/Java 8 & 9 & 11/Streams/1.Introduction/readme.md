@@ -1,9 +1,3 @@
-# Java Streams - Complete Guide
-
-A comprehensive guide to understanding and mastering Java Streams, introduced in Java 8 as part of the `java.util.stream` package.
-
----
-
 ## Table of Contents
 
 - [What is a Stream?](#what-is-a-stream)
