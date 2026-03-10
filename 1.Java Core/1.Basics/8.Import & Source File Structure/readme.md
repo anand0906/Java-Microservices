@@ -1,7 +1,7 @@
-# ☕ Java — Source File Structure, Import, Package & Class Modifiers
+# ☕ Java — Source File Structure, Import, Package
 
 > **Java Version Coverage:** Java 1.0+ · Static Import (1.5v)  
-> **Topics:** Source File Structure · Import Statements · Static Import · Package Statement · Class Modifiers
+> **Topics:** Source File Structure · Import Statements · Static Import · Package Statement 
 
 ---
 
